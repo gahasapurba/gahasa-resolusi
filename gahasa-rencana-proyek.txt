@@ -3,8 +3,9 @@ RENCANA PROYEK
 - Dog Care Indonesia
 - Laracamp
   Payment Gateway
-  Xendit
+   Midtransa
 - React JS
 - Node JS
 - Laravel Blog
-  Codeigniter
+  Laravel
+- Python
