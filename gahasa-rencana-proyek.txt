@@ -3,5 +3,6 @@ RENCANA PROYEK
 - Dog Care Indonesia
 - Laracamp
   Payment Gateway
+- React JS
 - Node JS
 - Laravel Blog
